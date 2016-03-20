@@ -1,4 +1,4 @@
-## Simple Youtube App
+## Simple React App with ES6
 
 ## Includes
 
